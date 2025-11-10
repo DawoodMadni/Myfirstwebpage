@@ -43,4 +43,19 @@ header{
 #otherside{
     background-color: lightblue;
     width: 70%;
+    margin-left: 10px;
+}
+#firstsect{
+    background: antiquewhite;
+    margin-top: 10;
+    margin-left: 50;
+    margin-right: 50;
+    border-radius: 8px;
+}
+#secondsect{
+    background: antiquewhite;
+    margin-top: 10;
+    margin-left: 50;
+    margin-right: 50;
+    border-radius: 8px;
 }
